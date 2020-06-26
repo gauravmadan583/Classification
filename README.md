@@ -1,8 +1,9 @@
 # Classification
 Classification using various different algorithms.
-I compared 7 algorithms to classify a dataset. 
+I compared 7 algorithms to classify a dataset which looked like this 
 
 ![alt text](https://github.com/gauravmadan583/Classification/blob/master/image.jpg?raw=true)
+
 The 7 algorithms are as follows:
 
 1. Logistic Regression
